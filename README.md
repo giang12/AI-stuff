@@ -6,4 +6,4 @@
 
 [https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/)
 
-[Theories to Deep Learning? (stats385 Standford)](https://stats385.github.io/readings)
+[Theories to Deep Learning? (stats385 Stanford)](https://stats385.github.io/readings)
