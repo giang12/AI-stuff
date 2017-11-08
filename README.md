@@ -4,10 +4,12 @@ AI-stuff
 # 101
 [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
 
+[cheat sheet-stuff everyone should know](https://stats385.github.io/cheat_sheet)
+
 [https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/)
 
 # Courses
-[Theories to Deep Learning? (stats385 Stanford)](https://stats385.github.io/readings)
+[Theories to Deep Learning? (stats385 Stanford)](https://stats385.github.io/)
 
 [https://www.deeplearning.ai/](https://www.deeplearning.ai/)
 
