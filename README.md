@@ -18,4 +18,6 @@ AI-stuff
 # Papers/Blogs
 [https://distill.pub/](https://distill.pub/)
 
-https://ml.berkeley.edu/blog/
+[https://ml.berkeley.edu/blog](https://ml.berkeley.edu/blog/)
+
+[An Analysis of Deep Neural Network Models for Practical Applications](https://arxiv.org/pdf/1605.07678.pdf)
