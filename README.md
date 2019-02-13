@@ -2,6 +2,8 @@ AI-stuff
 ========
 
 # 101
+[ML for everyone](https://vas3k.com/blog/machine_learning/)
+
 [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
 
 [cheat sheet-stuff everyone should know](https://stats385.github.io/cheat_sheet)
