@@ -10,7 +10,8 @@ AI-stuff
 
 [https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/)
 
-[http://www.cs.toronto.edu/~hinton/absps/montrealTR.pdf](To RecognizeShapes,FirstLearnto GenerateImages)
+[To RecognizeShapes,FirstLearnto Generate Images](http://www.cs.toronto.edu/~hinton/absps/montrealTR.pdf)
+
 # Courses
 [Theories to Deep Learning? (stats385 Stanford)](https://stats385.github.io/)
 
