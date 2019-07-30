@@ -10,6 +10,7 @@ AI-stuff
 
 [https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/)
 
+[http://www.cs.toronto.edu/~hinton/absps/montrealTR.pdf](To RecognizeShapes,FirstLearnto GenerateImages)
 # Courses
 [Theories to Deep Learning? (stats385 Stanford)](https://stats385.github.io/)
 
@@ -23,3 +24,14 @@ AI-stuff
 [https://ml.berkeley.edu/blog](https://ml.berkeley.edu/blog/)
 
 [An Analysis of Deep Neural Network Models for Practical Applications](https://arxiv.org/pdf/1605.07678.pdf)
+
+## Capsules
+https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b
+
+http://www.cs.toronto.edu/~saaraa/capsule_tutorial.mp4 www.cs.toronto.edu/~saaraa/CapsuleSlides.pdf
+
+https://akosiorek.github.io/ml/2019/06/23/stacked_capsule_autoencoders.html#fn:1
+
+## ensemble & distillation 
+
+http://www.cs.toronto.edu/~hinton/absps/OnlineDistillation.pdf
