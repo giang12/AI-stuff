@@ -19,12 +19,15 @@ AI-stuff
 
 [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
 
-# Papers/Blogs
+# Blogs
 [https://distill.pub/](https://distill.pub/)
 
 [https://ml.berkeley.edu/blog](https://ml.berkeley.edu/blog/)
 
+# Papers
 [An Analysis of Deep Neural Network Models for Practical Applications](https://arxiv.org/pdf/1605.07678.pdf)
+
+[AUTO-ENCODINGSEQUENTIALMONTECARLO](https://arxiv.org/pdf/1705.10306v2.pdf)
 
 ## Capsules
 https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b
