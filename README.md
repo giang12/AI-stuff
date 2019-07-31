@@ -22,12 +22,15 @@ AI-stuff
 # Blogs
 [https://distill.pub/](https://distill.pub/)
 
-[https://ml.berkeley.edu/blog](https://ml.berkeley.edu/blog/)
+[https://ml.berkeley.edu/](https://ml.berkeley.edu/)
 
 # Papers
 [An Analysis of Deep Neural Network Models for Practical Applications](https://arxiv.org/pdf/1605.07678.pdf)
 
 [AUTO-ENCODINGSEQUENTIALMONTECARLO](https://arxiv.org/pdf/1705.10306v2.pdf)
+
+[Set Transformer: A Framework for Attention-based Permutation-Invariant Neural Networks
+](https://arxiv.org/abs/1810.00825)
 
 ## Capsules
 https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b
