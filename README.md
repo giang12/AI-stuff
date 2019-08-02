@@ -12,6 +12,7 @@ AI-stuff
 
 [To RecognizeShapes,FirstLearnto Generate Images](http://www.cs.toronto.edu/~hinton/absps/montrealTR.pdf)
 
+[Hidden Markov Model](http://www.stat.columbia.edu/~liam/teaching/neurostat-fall17/papers/hmm/rabiner.pdf)
 # Courses
 [Theories to Deep Learning? (stats385 Stanford)](https://stats385.github.io/)
 
