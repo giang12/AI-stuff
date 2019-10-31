@@ -25,6 +25,8 @@ AI-stuff
 
 [https://ml.berkeley.edu/](https://ml.berkeley.edu/)
 
+[https://blog.floydhub.com/] (https://blog.floydhub.com/)
+
 # Papers
 [An Analysis of Deep Neural Network Models for Practical Applications](https://arxiv.org/pdf/1605.07678.pdf)
 
@@ -43,3 +45,9 @@ https://akosiorek.github.io/ml/2019/06/23/stacked_capsule_autoencoders.html#fn:1
 ## ensemble & distillation 
 
 http://www.cs.toronto.edu/~hinton/absps/OnlineDistillation.pdf
+
+## adversarial attack & defense
+https://www.robust-ml.org/
+https://blog.floydhub.com/introduction-to-adversarial-machine-learning/
+https://arxiv.org/pdf/1712.02976.pdf (Defense against Adversarial Attacks Using
+High-Level Representation Guided Denoiser)
