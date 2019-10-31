@@ -48,6 +48,8 @@ http://www.cs.toronto.edu/~hinton/absps/OnlineDistillation.pdf
 
 ## adversarial attack & defense
 https://www.robust-ml.org/
+
 https://blog.floydhub.com/introduction-to-adversarial-machine-learning/
+
 https://arxiv.org/pdf/1712.02976.pdf (Defense against Adversarial Attacks Using
 High-Level Representation Guided Denoiser)
